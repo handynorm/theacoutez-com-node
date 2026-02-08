@@ -1,7 +1,0 @@
-{
-  "name": "theacoutez-com-node",
-  "private": true,
-  "dependencies": {
-    "@supabase/supabase-js": "^2.39.0"
-  }
-}
